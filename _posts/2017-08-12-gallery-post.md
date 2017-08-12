@@ -1,0 +1,19 @@
+---
+type: ROM
+title: Pure AOSP 7.1.2 For Redmi Note 3 
+date: 2017-08-12
+category: ROM
+photos:
+- /images/pure_aosp/1.png
+- /images/pure_aosp/2.png
+- /images/pure_aosp/3.png
+tags:
+- Pure AOSP
+description: 
+---
+- ROMer: DoveKi
+- Android Version: 7.1.2_r33
+- Build Date: 2017-08-12
+- Download: https://www.androidfilehost.com/?fid=961840155545588191
+- MD5: ff3d47e3a4c19ca50a069e808b3ecad5
+
