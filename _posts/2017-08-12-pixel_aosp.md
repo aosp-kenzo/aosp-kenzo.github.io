@@ -2,7 +2,7 @@
 type: ROM
 title: Pixel AOSP 7.1.2 For Redmi Note 3 
 date: 2017-08-12
-category: ROM
+category: Pixel AOSP
 photos:
 - /images/pixel_aosp/1.png
 - /images/pixel_aosp/2.png
