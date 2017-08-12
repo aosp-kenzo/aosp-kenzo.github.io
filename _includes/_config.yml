@@ -4,14 +4,13 @@
 # ---------------------------------------------------------------
 
 # Site
-title: AOSP For Redmi Note 3
+title: NexT
 subtitle:
-description: ROMer
-author: DoveKi
+description:
+author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
-since: 2017
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
@@ -84,7 +83,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss: false
+rss:
 
 # Specify the date when the site was setup
 #since: 2015
@@ -117,15 +116,13 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  #home: /
-  pure: /2017/08/12/pure_aosp/
-  google: /2017/08/12/google_aosp/
-  pixel: /2017/08/12/pixel_aosp/
+  home: /
   #categories: /categories/
-  about: /about
-  #archives: /archives/
-  #tags: /tags/
+  #about: /about/
+  archives: /archives/
+  tags: /tags/
   #sitemap: /sitemap.xml
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -134,7 +131,7 @@ menu:
 #   Key is the name of menu item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
-  enable: false
+  enable: true
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
@@ -153,8 +150,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse
-scheme: Mist
+scheme: Muse
+#scheme: Mist
 #scheme: Pisces
 
 
@@ -235,7 +232,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /images/avatar.png
+#avatar:
 
 
 # Table Of Contents in the Sidebar
@@ -266,7 +263,7 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  display: remove
+  display: post
   #display: always
   #display: hide
   #display: remove
@@ -375,7 +372,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 5bd3fe76bd345e12a9f9f28ddbfc03ea
+#baidu_analytics:
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -407,7 +404,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC8zMDE0Ni82NzAx
+#livere_uid: your uid
 
 # Baidu Share
 # Available value:
@@ -490,9 +487,9 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: true
-  app_id: zOueuNPh7WMdvFWeLtuhd8eH-gzGzoHsz
-  app_key: XiiXi1nmQBJ9VITWyHRveQbx
+  enable: false
+  app_id: #<app_id>
+  app_key: #<app_key>
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
@@ -598,7 +595,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
 three_waves: false
@@ -612,11 +609,6 @@ canvas_sphere: false
 # Only fit scheme Pisces
 # Canvas-ribbon
 canvas_ribbon: false
-
-reward_comment: Consider donating if you like my work
-reward_comment: 如果你喜欢我的ROM，请我喝瓶可乐吧
-wechatpay: /images/wechat.png
-alipay: /images/alipay.jpg
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
