@@ -1,14 +1,14 @@
 ---
 type: ROM
-title: Pixel AOSP 7.1.2 For Redmi Note 3 
+title: Google AOSP 7.1.2 For Redmi Note 3 
 date: 2017-08-12
-category: Pixel AOSP
+category: Google AOSP
 photos:
-- /images/pixel_aosp/1.png
-- /images/pixel_aosp/2.png
-- /images/pixel_aosp/3.png
+- /images/google_aosp/1.png
+- /images/google_aosp/2.png
+- /images/google_aosp/3.png
 tags:
-- Pixel AOSP
+- Google AOSP
 description: 
 ---
 
@@ -17,8 +17,8 @@ description:
 - ROMer: DoveKi
 - Android Version: 7.1.2_r33
 - Build Date: 2017-08-12
-- Download: <https://www.androidfilehost.com/?fid=817550096634792098>
-- MD5: fcdac0acf0835c50eb69744d707b1159
+- Download: <https://www.androidfilehost.com/?fid=961840155545588208>
+- MD5: bbfae4cdb4fc6b8ef60b27e95e3e066c
 
 - Consider donating if you like my work -(如果你喜欢我的ROM，请捐赠支持我)
 - PayPal: <https://www.paypal.me/doveki>
@@ -27,3 +27,4 @@ description:
 -
 - Wechat(微信支付)
 ![Wechat](http://t1.qpic.cn/mblogpic/ec874f38c3cd5aa6f78c/2000)
+
