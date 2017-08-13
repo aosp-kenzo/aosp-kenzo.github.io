@@ -4,13 +4,14 @@
 # ---------------------------------------------------------------
 
 # Site
-title: AOSP For Kenzo
+title: AOSP For Redmi Note 3
 subtitle:
-description: AOSP For Kenzo
+description: ROMer
 author: DoveKi
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
+since: 2017
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
@@ -83,7 +84,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -118,11 +119,10 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
+  about: /about
   #archives: /archives/
   #tags: /tags/
   #sitemap: /sitemap.xml
-  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -592,7 +592,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
@@ -606,6 +606,11 @@ canvas_sphere: false
 # Only fit scheme Pisces
 # Canvas-ribbon
 canvas_ribbon: false
+
+reward_comment: Consider donating if you like my work
+reward_comment: 如果你喜欢我的ROM，请捐赠支持我
+wechatpay: /images/wechat.png
+alipay: /images/alipay.jpg
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
