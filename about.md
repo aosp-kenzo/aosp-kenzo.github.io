@@ -3,7 +3,6 @@
 <div class="text" style=" text-align:center;">AOSP is Android as Google publish. Anyway to get a working system I added some changes from CodeAurora Forum.I added also non-AOSP features for a better user experience and I'm not going to add something other.</div>
 <br/> <b>Contact:</b> DoveKi
 <br/> <b>Email:</b> 2290218900@qq.com
-<br/> <b>Home Package:</b> <a href="url">https://aosp-kenzo.github.io</a>
 <br/> <b>Open Source:</b> <a href="url">https://github.com/aosp-kenzo</a>
 <br/>
 <br/> <div class="text" style=" text-align:center;"><b>If you like my work,you can buy me a beer</b></div>
