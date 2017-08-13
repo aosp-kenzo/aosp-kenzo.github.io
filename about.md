@@ -6,7 +6,7 @@
 <br/> <b>Email:</b> 2290218900@qq.com
 <br/> <b>Home Package:</b> <a href="url">https://aosp-kenzo.github.io</a>
 <br/> <b>Open Source:</b> <a href="url">https://github.com/aosp-kenzo</a>
-<br/> <b>If you like my work，you can buy me a beer</b>
+<br/> <b>If you like my work,you can buy me a beer</b>
 <br/> <b>PayPal:</b> <a href="url">https://www.paypal.me/doveki</a>
 <br/>
 <br/>
