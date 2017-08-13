@@ -6,11 +6,11 @@
 <br/> <b>Email:</b> 2290218900@qq.com
 <br/> <b>Home Package:</b> <a href="url">https://aosp-kenzo.github.io</a>
 <br/> <b>Open Source:</b> <a href="url">https://github.com/aosp-kenzo</a>
-<br/> <b>Consider donating if you like my work</b>
+<br/> <b>If you like my work，you can buy me a beer</b>
 <br/> <b>PayPal:</b> <a href="url">https://www.paypal.me/doveki</a>
 <br/>
 <br/>
 <br/>
-<br/> <div class="text" style=" text-align:center;"><p><b>如果你喜欢我的ROM，捐赠支持我</b></p></div>
+<br/> <div class="text" style=" text-align:center;"><p><b>如果你喜欢我的ROM，请我喝瓶饮料吧</b></p></div>
 <img src="/images/alipay.jpg" width="270" height="410" /> 
 <img src="/images/wechat.png" width="294" height="404" /> 	
