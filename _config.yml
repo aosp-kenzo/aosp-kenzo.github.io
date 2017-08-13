@@ -118,6 +118,9 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
+  pure: /2017/08/12/pure_aosp/
+  google: /2017/08/12/google_aosp/
+  pixel: /2017/08/12/pixel_aosp/
   #categories: /categories/
   about: /about
   #archives: /archives/

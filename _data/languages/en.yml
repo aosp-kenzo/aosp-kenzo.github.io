@@ -16,6 +16,9 @@ menu:
   schedule: Schedule
   sitemap: Sitemap
   commonweal: Commonweal 404
+  pure: Pure AOSP
+  google: Google AOSP
+  pixel: Pixel AOSP
 
 sidebar:
   overview: Overview
