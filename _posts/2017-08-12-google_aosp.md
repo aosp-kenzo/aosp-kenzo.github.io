@@ -8,7 +8,7 @@ photos:
 
 <!-- more -->
 
-- <b>Maintainter:</b> DoveKi
+- <b>Author:</b> DoveKi
 - <b>Android Version:</b> 7.1.2_r33
 - <b>Build Date:</b> 2017-08-12
 - <b>Download:</b> <https://www.androidfilehost.com/?fid=961840155545588208>
