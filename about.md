@@ -3,10 +3,10 @@
 <div class="text" style=" text-align:center;">AOSP is Android as Google publish. Anyway to get a working system I added some changes from CodeAurora Forum.I added also non-AOSP features for a better user experience and I'm not going to add something other.</div>
 <br/> <b>Contact:</b> DoveKi
 <br/> <b>Email:</b> 2290218900@qq.com
-<br/> <b>Open Source:</b> <a href="url">https://github.com/aosp-kenzo</a>
+<br/> <b>Open Source:</b> <a href="https://github.com/aosp-kenzo">https://github.com/aosp-kenzo</a>
 <br/>
 <br/> <div class="text" style=" text-align:center;"><b>If you like my work,you can buy me a beer</b></div>
-<br/> <div class="text" style=" text-align:center;"><b>PayPal:</b> <a href="url">https://www.paypal.me/doveki</a></div>
+<br/> <div class="text" style=" text-align:center;"><b><a href="https://www.paypal.me/DoveKi">Paypal</a></b></div>
 <br/> <div class="text" style=" text-align:center;"><p><b>如果你喜欢我的ROM，请我喝瓶可乐吧</b></p></div>
 <img src="/images/alipay.jpg" width="270" height="410" /> 
 <img src="/images/wechat.png" width="294" height="404" /> 	
