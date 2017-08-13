@@ -11,6 +11,6 @@
 <br/>
 <br/>
 <br/>
-<br/> <div class="text" style=" text-align:center;"><p><b>如果你喜欢我的ROM，请捐赠支持我</b></p></div>
+<br/> <div class="text" style=" text-align:center;"><p><b>如果你喜欢我的ROM，捐赠支持我</b></p></div>
 <img src="/images/alipay.jpg" width="270" height="410" /> 
 <img src="/images/wechat.png" width="294" height="404" /> 	
