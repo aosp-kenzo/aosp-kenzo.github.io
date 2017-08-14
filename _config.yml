@@ -384,10 +384,10 @@ baidu_analytics: 5bd3fe76bd345e12a9f9f28ddbfc03ea
 disqus:
   enable: false
   shortname:
-  count: false
+  count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
-  hide: true
+  hide: false
 
 # Hypercomments
 #hypercomments_id:
