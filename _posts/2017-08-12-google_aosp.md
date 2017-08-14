@@ -8,6 +8,8 @@ photos:
 
 <!-- more -->
 
+----------------------------------------------------------
+
 - <b>Author:</b> DoveKi
 - <b>Android Version:</b> 7.1.2_r33
 - <b>Build Date:</b> 2017-08-12
