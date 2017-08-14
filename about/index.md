@@ -1,5 +1,5 @@
 ---
-title: Redmi Note 3 AOSP
+title: AOSP For Redmi Note 3
 layout: page
 ---
 ![android](/images/logo.png)
