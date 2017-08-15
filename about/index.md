@@ -2,7 +2,7 @@
 title: AOSP For Redmi Note 3
 layout: page
 ---
-![android](https://img.xda-cdn.com/KMvIkNc_KKsGy4Gxg541Ueq7rto=/https%3A%2F%2Fimg.xda-cdn.com%2Fuc9wanBxNEM-HzaRWygMlyE4NVU%3D%2Fhttp%253A%252F%252Fi.imgur.com%252FzNMu4xJ.png)
+![android](/images/logo.png)
 <div class="text" style=" text-align:center;">AOSP is Android as Google publish. Anyway to get a working system I added some changes from CAF. <br/>I added also features for a better user experience.</div>
 <br/>
 <div class="text" style=" text-align:center;"><b>Contact:</b> DoveKi</div>
