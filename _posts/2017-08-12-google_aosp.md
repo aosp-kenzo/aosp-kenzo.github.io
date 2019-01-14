@@ -17,5 +17,3 @@ photos:
 - <b>MD5:</b> bbfae4cdb4fc6b8ef60b27e95e3e066c
 
 ----------------------------------------------------------
-- <b>If you like my work,you can buy me a beer</b>
-- <b>PayPal:</b> <https://www.paypal.me/doveki>
